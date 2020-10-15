@@ -1,0 +1,95 @@
+/* My Custom Css */
+
+
+body {
+    background-color: #0c394d;
+    height: auto;
+    }
+div container-fluid{
+    width: 100%;
+    auto: height;
+}
+
+/* fullPicture */
+
+div .col-xl-12{
+    margin-left: 300px;
+    
+}
+
+div .col-lg-8 a img{
+    margin-top: 10px;
+   
+}
+
+
+div .col-lg-2{
+    margin-top: 20px;
+}
+
+
+
+ul.navbar-nav{
+    text-align:center;
+    padding-left: 550px;
+    width: 100%;
+    height; auto;
+}
+
+p{
+    padding: 15px;
+}
+
+.col-sm-4-A{
+    margin-top:0px;
+    margin-left: 330px;
+    text-align: center;
+    width: 427px;
+    height: 250px;
+    
+}
+
+.col-sm-4-B {
+    margin-top:-250px;
+    margin-left: 757px;
+    text-align: center;
+    width:465px;
+    height: 250px;
+}
+
+.col-sm-4-C{
+    margin-top:-250px;
+    margin-left: 1219px;
+    text-align: center;
+    width: 395px;
+    height: 250px;
+}
+
+#footer{
+    background-color: #51706a;
+    margin-top:0px;
+    height: 75px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+p1{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    padding-top: 40px;
+    padding-left: 60px;
+
+}
+
+p2{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    padding-top: 40px;
+    padding-left:80px;
+}
+
+p3 .img{
+    padding-left: 100px;
+    margin-top:-20px;
+    
+}
