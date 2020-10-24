@@ -93,3 +93,12 @@ p3 .img{
     margin-top:-20px;
     
 }
+
+H2{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 40px;
+    margin: center;
+    background-color: #a2b8b4;
+    text-align: center;
+}
